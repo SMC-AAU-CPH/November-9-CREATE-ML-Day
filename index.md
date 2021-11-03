@@ -1,4 +1,21 @@
-# DK Runway Workshop
+# Organizers
+This workshop is organized by CREATE staff and students, and features Andreas Refsgaard.
+
+Andreas Refsgaard is an artist and creative coder based in Copenhagen. He uses algorithms, coding and machine learning to explore the creative potentials of emerging digital technologies. He also offers workshops: https://andreasrefsgaard.dk/workshops/, in which, Andreas provides an introduction into how machine learning models can be productively integrated into existing workflows, integrated into websites and used for professional client projects. Through creative examples and hands-on exercises, he rolls out the many creative and technical possibilities machine learning brings to the field such as offering new and effective ways of prototyping and testing ideas. Andreas has previously taught workshops in machine learning and AI for creative technologists and developers at Facebook Reality Lab and at conferences like KIKK and Resonate. See also his new book in Danish: https://www.skabtafenkunstigintelligens.dk/ ![image](https://user-images.githubusercontent.com/1277203/140033209-0dd928c7-e5c4-4522-8d0c-75ecf322da0f.png).
+
+Time	Activity
+09:00	Welcome, Part I
+12:15	Lunch
+13:00	Part II
+15:30	Coffee Break
+15:45	Student Presentations
+16:00	END of Workshop, mingling around small food
+17:45   Live connection to the [TensorFlow Machine Learning Community Day](https://www.tensorflow.org/ml-community-day)
+20:00   End of the official program
+
+We provide a Danish template for the workshop below, the final language and sequence of activities will be determined by the participant profiles.
+
+## DK Runway Workshop
 
 ### 0) Før vi starter
 
