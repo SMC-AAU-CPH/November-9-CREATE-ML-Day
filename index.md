@@ -181,7 +181,7 @@ Example of trained YOLO model connected to P5JS + website
 
 - [First Impressions](https://j3nsykes.github.io/FirstImpressions/)
 
-<iframe src="https://player.vimeo.com/video/446832119?h=39a33168eb" width="640" height="348" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/446832119?h=39a33168eb" width="100%" height="348" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/446832119">firstImpressions</a> from <a href="https://vimeo.com/jensykes">Jen Sykes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## 6) Train a text generation model with GPT-2
@@ -277,8 +277,7 @@ Link to library: [https://github.com/runwayml/processing-library](https://github
 ### Connecting Runway to P5.JS
 
 Demonstrate how to connect Runway to a P5JS sketch running locally.
-
-[DK%20Runway%20Workshop%202%20timer%20af18eb2c032b4f5bbf43eac0be4c2007/zoom_Connecting_Runway_and_p5js.mp4](DK%20Runway%20Workshop%202%20timer%20af18eb2c032b4f5bbf43eac0be4c2007/zoom_Connecting_Runway_and_p5js.mp4)
+<video src='DK%20Runway%20Workshop%202%20timer%20af18eb2c032b4f5bbf43eac0be4c2007/zoom_Connecting_Runway_and_p5js.mp4' width=100%/>
 
 The code mentioned is online at: [https://github.com/AndreasRef/p5js](https://github.com/AndreasRef/p5js)
 
