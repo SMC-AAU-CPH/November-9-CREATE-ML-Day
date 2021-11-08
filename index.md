@@ -127,8 +127,7 @@ Here are some of my favourites:
 
 Remember to ask for help if you get stuck or something is not working. But try to have patiences with the models, as they can take some minutes to load.
 
-Post your results:
-****Post interesting results in [this document](https://docs.google.com/document/d/1Q-YQZ07Vkq7oALCu3BuCU0CCnbMoakWLR4YqlRnweXA/edit?usp=sharing), and remember to write your name and the name of the model you used.
+*Post* interesting results in [this document](https://docs.google.com/document/d/1Q-YQZ07Vkq7oALCu3BuCU0CCnbMoakWLR4YqlRnweXA/edit?usp=sharing), and remember to write your name and the name of the model you used.
 
 # Advanced features
 
@@ -139,9 +138,9 @@ For example, giving GPT-2 your own book(s) to train rather than the default webT
 
 👉 A good overview of the three different training options in Runway
 
-[Model Training | Runway](https://runwayml.com/training/)
+[Model Training Runway](https://runwayml.com/training/)
 
-[https://www.youtube.com/watch?v=1shE4Mjie1I&ab_channel=RunwayML](https://www.youtube.com/watch?v=1shE4Mjie1I&ab_channel=RunwayML)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1shE4Mjie1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Gene Kogan from Runway explaining how to train a StyleGAN model*
 
