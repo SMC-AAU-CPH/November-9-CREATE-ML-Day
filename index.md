@@ -68,23 +68,25 @@ Output Type: Text ✍️
 👉 **Exercise: Write with GPT-2**
 Run the GPT-2 model: [https://app.runwayml.com/models/runway/GPT-2](https://app.runwayml.com/models/runway/GPT-2)
 
-****Give GPT-2 a few lines of text about a specific subject as a prompt, and let's see what it comes up with! A good prompt clearly "steers" the text generation and makes it obvious what the text is about. The more prompt text, the better the output text normally is.
+Give GPT-2 a few lines of text about a specific subject as a prompt, and let's see what it comes up with! A good prompt clearly "steers" the text generation and makes it obvious what the text is about. The more prompt text, the better the output text normally is.
 
 Examples of input prompts:
-*Here is how to make a traditional apple pie in 10 easy steps: 
-1) Preheat the oven*
+
+```Here is how to make a traditional apple pie in 10 easy steps: 
+1) Preheat the oven```
 
 or
 
-*John Doe is a famous Danish football player who currently plays for Real Madrid. He began playing football when he was just 5 years old*
+```John Doe is a famous Danish football player who currently plays for Real Madrid. 
+   He began playing football when he was just 5 years old```
 
-****Settings:
-****Adjust the *Max Characters* slider to the right, so you get a longer output than the default 64 characters. 
+#### Settings:
+Adjust the *Max Characters* slider to the right, so you get a longer output than the default 64 characters. 
 
-****Load a bigger *checkpoint* (*Medium* or ***Large***) for better results, or use a small (*Extra Small* or *Small*) checkpoint for faster results and lower loading time. 
+Load a bigger *checkpoint* (*Medium* or ***Large***) for better results, or use a small (*Extra Small* or *Small*) checkpoint for faster results and lower loading time. 
 
-****Post your results:
-****Post your best result in [this Google Document](https://docs.google.com/document/d/1Q-YQZ07Vkq7oALCu3BuCU0CCnbMoakWLR4YqlRnweXA/edit?usp=sharing).
+#### Post your results:
+Post your best result in [this Google Document](https://docs.google.com/document/d/1Q-YQZ07Vkq7oALCu3BuCU0CCnbMoakWLR4YqlRnweXA/edit?usp=sharing).
 
 ### 3) Image generation with StyleGan (Latent Video Models)
 
