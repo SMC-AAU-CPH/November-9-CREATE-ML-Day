@@ -261,15 +261,13 @@ Runway has a new experimental feature called **Sequel** which used Machine Learn
 
 [https://www.youtube.com/watch?v=loGc7DQL3YU&ab_channel=Runway](https://www.youtube.com/watch?v=loGc7DQL3YU&ab_channel=Runway)
 
-Learn more here:
-
-[Sequel](https://help.runwayml.com/hc/en-us/categories/1500001930562-Sequel)
+Learn more here: [Sequel](https://help.runwayml.com/hc/en-us/categories/1500001930562-Sequel)
 
 ## Connect Runway to other software (using the [desktop version of Runway](https://runwayml.com/download/))
 
 ### Connecting Runway to Processing
 
-[https://www.youtube.com/watch?v=zGdOKaLOjck&t=3s](https://www.youtube.com/watch?v=zGdOKaLOjck&t=3s)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zGdOKaLOjck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Gene Kogan from Runway showing how to link RunwayML to Processing* 
 Link to library: [https://github.com/runwayml/processing-library](https://github.com/runwayml/processing-library)
@@ -277,7 +275,10 @@ Link to library: [https://github.com/runwayml/processing-library](https://github
 ### Connecting Runway to P5.JS
 
 Demonstrate how to connect Runway to a P5JS sketch running locally.
-<video src='DK%20Runway%20Workshop%202%20timer%20af18eb2c032b4f5bbf43eac0be4c2007/zoom_Connecting_Runway_and_p5js.mp4' width=100%/>
+<video width="100%" height="240" controls>
+  <source src="DK%20Runway%20Workshop%202%20timer%20af18eb2c032b4f5bbf43eac0be4c2007/zoom_Connecting_Runway_and_p5js.mp4" type="video/mp4">
+</video>
+
 
 The code mentioned is online at: [https://github.com/AndreasRef/p5js](https://github.com/AndreasRef/p5js)
 
