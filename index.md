@@ -288,12 +288,9 @@ More options for connecting various other software to RunwayML can be found [her
 For using Runway with Photoshop see [this tutorial](https://www.youtube.com/watch?v=Cq7NdUEbyYU).
 
 ## Additional Runway video tutorials
-
-[RunwayML](https://www.youtube.com/channel/UCUBqu_z5uP0AZhYtuyFZB3g/playlists)
-
-[Model Training - YouTube](https://www.youtube.com/playlist?list=PLj598ZXODDO9fAdX7J5wt3pqYHUVCixMH)
-
-[Intro to Machine Learning 🤖 with Gene Kogan - YouTube](https://www.youtube.com/playlist?list=PLj598ZXODDO_oWYAiO5c0Ac05IyrPUG8t)
+- [RunwayML Youtube Playlists](https://www.youtube.com/channel/UCUBqu_z5uP0AZhYtuyFZB3g/playlists)
+- Model Training - YouTube <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLj598ZXODDO9fAdX7J5wt3pqYHUVCixMH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Intro to Machine Learning 🤖 with Gene Kogan <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLj598ZXODDO_oWYAiO5c0Ac05IyrPUG8t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Other Runway Links
 
@@ -313,7 +310,7 @@ Runway Github
 
 ![DK%20Runway%20Workshop%202%20timer%20af18eb2c032b4f5bbf43eac0be4c2007/VideoPainterGIF.gif](DK%20Runway%20Workshop%202%20timer%20af18eb2c032b4f5bbf43eac0be4c2007/VideoPainterGIF.gif)
 
-This page is a repost of https://www.notion.so/CREATE-ML-DAY-Runway-3a837d958a7d455a857577490a5c5762
+This page is a repost of [https://www.notion.so/CREATE-ML-DAY-Runway-3a837d958a7d455a857577490a5c5762](https://www.notion.so/CREATE-ML-DAY-Runway-3a837d958a7d455a857577490a5c5762)
 
 [Website](http://andreasrefsgaard.dk/) / [Email](mailto:mail@andreasrefsgaard.dk) / [Twitter](https://twitter.com/AndreasRef) / [Instagram](https://www.instagram.com/andreasref/) / [GitHub](https://github.com/AndreasRef)
 
