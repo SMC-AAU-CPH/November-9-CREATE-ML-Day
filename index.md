@@ -1,5 +1,5 @@
 # Organizers
-This workshop is organized by CREATE staff and students, and features Andreas Refsgaard.
+This workshop is organized by CREATE staff and students, and features Andreas Refsgaard. 
 
 Andreas Refsgaard is an artist and creative coder based in Copenhagen. He uses algorithms, coding and machine learning to explore the creative potentials of emerging digital technologies. He also offers workshops: <https://andreasrefsgaard.dk/workshops/>, in which, Andreas provides an introduction into how machine learning models can be productively integrated into existing workflows, integrated into websites and used for professional client projects. Through creative examples and hands-on exercises, he rolls out the many creative and technical possibilities machine learning brings to the field such as offering new and effective ways of prototyping and testing ideas. Andreas has previously taught workshops in machine learning and AI for creative technologists and developers at Facebook Reality Lab and at conferences like KIKK and Resonate. See also his new book in Danish: <https://www.skabtafenkunstigintelligens.dk> 
 
@@ -73,6 +73,7 @@ Give GPT-2 a few lines of text about a specific subject as a prompt, and let's s
 Examples of input prompts:
 
 ```Here is how to make a traditional apple pie in 10 easy steps: 
+
 1) Preheat the oven```
 
 or
@@ -107,19 +108,22 @@ Drag the mouse or click the "regenerate" button to explore different outputs.
 Post your results:
 ****Post the weirdest face🤪 and the weirdest dog 🐶 you can find in [this Google Document](https://docs.google.com/document/d/1Q-YQZ07Vkq7oALCu3BuCU0CCnbMoakWLR4YqlRnweXA/edit?usp=sharing).
 
-Visual explanation of Vector Space by [Lia Coleman](https://twitter.com/lialialiacole?lang=en) and [Artificial images](https://artificial-images.com/): [Intro to ML Art with RunwayML: Week 2](https://youtu.be/7cdfrUpYHrU?t=664)
+Visual explanation of Vector Space by [Lia Coleman](https://twitter.com/lialialiacole?lang=en) and [Artificial images](https://artificial-images.com/): 
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7cdfrUpYHrU?start=666" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 👉 **Exercise: Time to explore**
 Try some of the models we have not tried yet and share your findings to inspire the rest of the workshop participants. 
 
 Here are some of my favourites:
-**Colorization:** [https://app.runwayml.com/models/reiinakano/Colorization](https://app.runwayml.com/models/reiinakano/Colorization) 
-**Depth Maps:** [https://app.runwayml.com/models/akhaliq/Depth-Maps](https://app.runwayml.com/models/akhaliq/Depth-Maps)
-**U2-Net:** [https://app.runwayml.com/models/anastasis/U-2-Net](https://app.runwayml.com/models/anastasis/U-2-Net)
-**First-Order-Motion-Model:** [https://app.runwayml.com/models/runway/First-Order-Motion-Model](https://app.runwayml.com/models/runway/First-Order-Motion-Model)
-**Spade Landscapes:** [https://app.runwayml.com/models/genekogan/SPADE-Landscapes](https://app.runwayml.com/models/genekogan/SPADE-Landscapes)
-**ArtLine**: [https://app.runwayml.com/models/akhaliq/ArtLine](https://app.runwayml.com/models/akhaliq/ArtLine)
-**Fast Style Transfer:** [https://app.runwayml.com/models/genekogan/Fast-Style-Transfer](https://app.runwayml.com/models/genekogan/Fast-Style-Transfer)
+
+- **Colorization:** [https://app.runwayml.com/models/reiinakano/Colorization](https://app.runwayml.com/models/reiinakano/Colorization) 
+- **Depth Maps:** [https://app.runwayml.com/models/akhaliq/Depth-Maps](https://app.runwayml.com/models/akhaliq/Depth-Maps)
+- **U2-Net:** [https://app.runwayml.com/models/anastasis/U-2-Net](https://app.runwayml.com/models/anastasis/U-2-Net)
+- **First-Order-Motion-Model:** [https://app.runwayml.com/models/runway/First-Order-Motion-Model](https://app.runwayml.com/models/runway/First-Order-Motion-Model)
+- **Spade Landscapes:** [https://app.runwayml.com/models/genekogan/SPADE-Landscapes](https://app.runwayml.com/models/genekogan/SPADE-Landscapes)
+- **ArtLine**: [https://app.runwayml.com/models/akhaliq/ArtLine](https://app.runwayml.com/models/akhaliq/ArtLine)
+- **Fast Style Transfer:** [https://app.runwayml.com/models/genekogan/Fast-Style-Transfer](https://app.runwayml.com/models/genekogan/Fast-Style-Transfer)
 
 Remember to ask for help if you get stuck or something is not working. But try to have patiences with the models, as they can take some minutes to load.
 
@@ -175,9 +179,11 @@ Walkthrough of annotating a dataset of cats🐱 and 🐶 downloaded from [Kaggle
 
 Example of trained YOLO model connected to P5JS + website
 
-[First Impressions](https://j3nsykes.github.io/FirstImpressions/)
+- [First Impressions](https://j3nsykes.github.io/FirstImpressions/)
 
-[firstImpressions](https://vimeo.com/446832119)
+<iframe src="https://player.vimeo.com/video/446832119?h=39a33168eb" width="640" height="348" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/446832119">firstImpressions</a> from <a href="https://vimeo.com/jensykes">Jen Sykes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ## 6) Train a text generation model with GPT-2
 
 Walkthrough of training GPT-2 using a corpus of sci-fi👽 stories from [Kaggle](https://www.kaggle.com/jannesklaas/scifi-stories-text-corpus)
@@ -307,6 +313,8 @@ Runway Github
 **Taught by Andreas Refsgaard**
 
 ![DK%20Runway%20Workshop%202%20timer%20af18eb2c032b4f5bbf43eac0be4c2007/VideoPainterGIF.gif](DK%20Runway%20Workshop%202%20timer%20af18eb2c032b4f5bbf43eac0be4c2007/VideoPainterGIF.gif)
+
+This page is a repost of https://www.notion.so/CREATE-ML-DAY-Runway-3a837d958a7d455a857577490a5c5762
 
 [Website](http://andreasrefsgaard.dk/) / [Email](mailto:mail@andreasrefsgaard.dk) / [Twitter](https://twitter.com/AndreasRef) / [Instagram](https://www.instagram.com/andreasref/) / [GitHub](https://github.com/AndreasRef)
 
